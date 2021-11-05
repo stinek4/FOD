@@ -8,8 +8,6 @@
 		<string>BackgroundColor</string>
 		<key>UIImageName</key>
 		<string>AppIcon</string>
-		<key>UILaunchScreen</key>
-		<dict/>
 	</dict>
 </dict>
 </plist>

@@ -25,7 +25,7 @@ struct DogView: View{
                 .frame(width: 390, height: 300, alignment: .center)
             VStack{
                 ScrollView{
-                    Text("Navn")
+                    Text("Puffen")
                         .font(.system(size: 30).bold())
                         .foregroundColor(Color("AccentColor"))
                         .padding(.top, 20)
