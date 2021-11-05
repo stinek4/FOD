@@ -1,0 +1,73 @@
+{
+    "dogs": [{
+            "id": 1908324,
+            "img": "https://media.snl.no/media/53158/standard_compressed_Norwegian_Elkhound_1.jpg",
+            "name": "Balto",
+            "desc": "Balto er en godgutt som knytter seg veldig til sine mennesker. Han trenger å bruke hode og kropp hver dag. Balto synes også enkelte mennesker kan være litt skumle og trenger ved nye bekjentskaper å få gjøre dette i sitt tempo. Han reagerer sjeldent på kvinner, mens store menn og menn i arbeidsklær er mest skummelt. Vi søker et landlig hjem, fortrinnsvis uten andre dyr og barn. Det er en stor fordel om nytt hjem har kjennskap med rasen og interesse for søk, lydighet eller lignende.",
+            "breed": "Norsk Elghund",
+            "color": "Grå og svart",
+            "age": 2,
+            "gender": "Hann"
+        },
+        {
+            "id": 1738321,
+            "img": "https://cdn.pixabay.com/photo/2020/01/16/18/09/black-lab-4771308_1280.jpg",
+            "name": "Kira",
+            "desc": "Kira er en utrolig sjarmerende og glad hund helst skal opp i ansiktet og gi en suss så snart hun møter deg! Hun har blitt misforstått i tidligere hjem og trenger derfor å føle mestring og kontroll. Situasjoner der hun føler seg presset, som kloklipp og veterinærbesøk syns Kira er vanskelig, og nytt hjem må være forberedt på å jobbe gradvis med dette. Kira har fått både passeringstrening og sosialisering med andre hunder hos oss. Hun vil nok likevel trives best som eneste firebente i hjemmet, men gjerne med faste turkamerater og playdates. Hun har moderat aktivitetsnivå. Skogsturer og aktiviteter som lydighet og søksøvelser er midt i blinken!",
+            "breed": "Labrador",
+            "color": "Svart",
+            "age": 5,
+            "gender": "Hunn"
+        },
+        {
+            "id": 1829339,
+            "img": "https://www.maxpixel.net/static/photo/1x/Animal-Puppy-Pet-Dog-Young-Animal-Sad-Eyes-1284307.jpg",
+            "name": "Minda",
+            "desc": "Minda er en utrolig kosete, livlig og glad hund. Hun skal helst opp i ansiktet og gi en suss så snart hun møter deg! Hun har blitt omplassert grunnet mye bjeffing, noe vi nå jobber med på gården. Situasjoner der hun føler seg presset, som kloklipp og veterinærbesøk syns Minda er vanskelig, og nytt hjem må være forberedt på å jobbe gradvis med dette. Minda er fortsatt valp, så trenger mye oppfølging og dressering i begynnelsen. Hun liker faste turkamerater og playdates. Hun har mye energi, men pleier å sovne tidlig på kvelden. Skogsturer og aktiviteter som lydighet og søksøvelser er midt i blinken!",
+            "breed": "Blanding",
+            "color": "Brun, hvit og svart",
+            "age": 1,
+            "gender": "Hunn"
+        },
+        {
+            "id": 1528499,
+            "img": "https://upload.wikimedia.org/wikipedia/commons/e/e2/French_Bulldog_Apolo.jpg",
+            "name": "Petra",
+            "desc": "Petra er en sprek frøken som liker å bruke seg både mentalt og fysisk. Hun går overens både med hund og katt. Hun flyttet inn på FOD gården da det ble litt mye for henne når barnebarn var på besøk. Petra er litt engstelig og kan reagere om det blir mye å forholde seg til. Petra kan være litt usikker ved håndtering. Kloklipp har blitt gjort av veterinær. Petra er ved god helse, men litt rund i kantene så hun er på slankern, men veldig matmotivert! Hun er kastrert.",
+            "breed": "Fransk Bulldog",
+            "color": "Svart og hvit",
+            "age": 5,
+            "gender": "Hunn"
+        },
+        {
+            "id": 1283654,
+            "img": "https://c.pxhere.com/photos/e3/cb/dog-217179.jpg!d",
+            "name": "Puffen",
+            "desc": "Puffen er vår store kosebamse! Han er tillitsfull, trofast og en fantastisk kjærlig følgesvenn. Puffen elsker å være ute og er godt pelset for all slags vær. Han har et moderat aktivitetsnivå. Koser seg med skogsturer, lek med annen hund og trives også godt med å ligge i hagen og holde oversikt. Han klarer fint å slappe av alene en arbeidsdag. Han har gode manerer inne og aldri ødelagt noe.",
+            "breed": "St. Bernhard",
+            "color": "Brun, hvit og svart",
+            "age": 3,
+            "gender": "Hann"
+        },
+        {
+            "id": 1393454,
+            "img": "https://negativespace.co/wp-content/uploads/2021/01/negative-space-brown-dog-lake-1024x1536.jpg",
+            "name": "Rufus",
+            "desc": "Rufus er en herlig gutt som knytter seg veldig til menneskene sine. Han er tillitsfull og kjærlig. Rufus er også en helt super turkamerat! Han er med i all slags vær. Går pent i bånd, holder fin kontakt, jobber gjerne for godbit og syns det er stor stas å gjøre lydighetsøvelser, skogsagility og søk. For deg som liker å trene hund er Rufus en super partner!",
+            "breed": "Blanding",
+            "color": "Brun og hvit",
+            "age": 4,
+            "gender": "Hann"
+        },
+        {
+            "id": 1793256,
+            "img": "https://p2.piqsels.com/preview/353/754/530/golden-retriever-dog-canine-pet.jpg",
+            "name": "Tyra",
+            "desc": "Tyra er en skikkelig gladjente som elsker å leke og være ute sammen med sine venner, både på to og fire. Hun elsker å jobbe og det er ikke mye hun ikke vil gjøre for en godbit, hun er en perfekt hund for aktive mennesker som liker å trene hund. Tyra er en hund med stor personlighet og en hund det er lett å bli glad i. Hun har derimot vist en del utfordringer med ressursforsvar i tidligere hjem. Hun vokter spesielt på plassen sin, men kan også vokte på mat, leker og andre ressurser hun ser på som høy verdi. Hun sliter med innbilt svangerskap og endrer atferd i disse periodene. Det kreves derfor at nytt hjem har noe erfaring med hunder og forstår at dette er en hund som krever tålmodighet.",
+            "breed": "Golden Rettriever",
+            "color": "Hvit",
+            "age": 4,
+            "gender": "Hunn"
+        }
+    ]
+}

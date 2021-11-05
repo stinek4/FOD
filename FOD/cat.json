@@ -1,0 +1,72 @@
+{
+    "cats": [
+    {
+        "id": 1948562,
+        "img": "https://www.fod.no/app/uploads/2021/10/5775D64E-D683-49F3-9EB1-138DFF37900F.jpeg",
+        "name": "Baby",
+        "desc": "Jeg heter Baby og er på utkikk etter et foreverhjem. Jeg er en ung dame oppkalt etter Baby i Dirty Dancing, som selvfølgelig betyr at jeg er en meget pen, smidig og elegant dame. Ikke minst har jeg en flott figur. Jeg har bodd i fosterhjem siden midten av mai 2021 etter at jeg ble funnet utendørs på selveste 17. mai, sammen med mine fire nyfødte barn. Barna er for lengst ute av redet, og jeg har vært så heldig å ha mine snille fosterforeldre helt for meg selv den siste tiden. Jeg er veldig glad for at noen fant meg og tok meg med inn i trygge omgivelser.",
+        "outOrIn": "Utekatt",
+        "color": "Grå",
+        "age": 2,
+        "gender": "Hunn"
+    },
+    {
+        "id": 1237321,
+        "img": "https://www.fod.no/app/uploads/2021/10/A7EB8D25-EA45-4870-9A1A-105D41A8F111.jpeg",
+        "name": "Soline",
+        "desc": "Soline er en skikkelig kosekatt som aller helst ligger i fanget eller mellom fostermor og -far i sofaen for å få mest mulig kos. Hun er også veldig leken. Hun jakter på laser, garn og hårstrikker i leiligheten, og er på sitt blideste når hun får en ny pappeske å leke med. Soline kom i fosterhjem i mars 2021. Da var hun drektig, og nokså sky. Sakte, men sikkert har hun skjønt at mennesker er flinke til å gi kos. Hun er fortsatt litt skvetten og skeptisk til fremmede, men gi henne litt tid så blir hun din beste venn.",
+        "outOrIn": "Utekatt",
+        "color": "Brunstripet",
+        "age": 5,
+        "gender": "Hunn"
+    },
+    {
+        "id": 1954739,
+        "img": "https://www.fod.no/app/uploads/2021/09/5C12F0A3-85A0-4701-9E65-2473EE3AF629.jpeg",
+        "name": "Manis",
+        "desc": "Hei, jeg heter Manis og jeg bor i fosterhjem sammen med mammaen min Indah. Jeg er blitt en stor gutt, på 1 år. Jeg er fortsatt glad i å leke mye, men jeg har også nå oppdaget hvor godt det er å bli kost med. Jeg følger gjerne etter fosterforeldrene mine og legger meg ned ved føttene deres slik at de skal kose med meg. Jeg har blitt vant til å hilse på nye mennesker og de er ikke så skumle lenger. Det tar ikke lang tid før jeg kommer ut i håp om å få masse oppmerksomhet eller godbiter fra de nye folka.",
+        "outOrIn": "Utekatt",
+        "color": "Oransjstripet",
+        "age": 1,
+        "gender": "Hann"
+    },{
+        "id": 1532909,
+        "img": "https://www.fod.no/app/uploads/2021/07/AE74CE21-2473-4C3C-8648-4C57AD6D6426.jpeg",
+        "name": "Storm",
+        "desc": "Storm er en helskjønn hannkatt som ønsker seg et godt hjem. Da han først kom til fosterhjemmet sitt, var han ordentlig sky og redd. I mange uker holdt han til bak sofaen, og kom kun frem om natten. Han har kommet en lang vei, og etter mange bestikkelser med god mat, har han blitt både sosial og kjælen. Likevel kan han fortsatt være usikker på fremmede og gjemmer seg dersom han ikke føler seg trygg. Storm elsker lek, kos og mat. Favorittaktiviteten hans er å jakte på papirballer og garn. Han har en tendens til å glemme å trekke inn klørne når han leker. Han er den snilleste pusen, men bør nok ikke bo med små barn eller dyre møbler.",
+        "outOrIn": "Utekatt",
+        "color": "Svart",
+        "age": 5,
+        "gender": "Hann"
+    },{
+        "id": 1289872,
+        "img": "https://www.fod.no/app/uploads/2021/07/1094D971-5632-4028-A839-A8A2E998CC83.jpeg",
+        "name": "Cisco",
+        "desc": "Cisco er en nydelig og sosial hannkatt som ønsker seg et lekent og kjærlig hjem. Han elsker mat og hopper alltid opp i fanget til fostermor og stikker snuten ned i matfatet under middag. Cisco har hatt stor fremgang etter at han kom i fosterhjem mai 2021. Fra å være sky og redd mennesker, til å bli en trygg og avslappet pus som fotfølger fostermor i leiligheten. Han er vant til masse besøk og barn. De kan være litt skumle til å starte med, men hvis de gir han litt tid så kommer han frem for lek og snuser på hender.",
+        "outOrIn": "Utekatt",
+        "color": "Brunstripet",
+        "age": 1,
+        "gender": "Hann"
+    },{
+        "id": 1657454,
+        "img": "https://www.fod.no/app/uploads/2021/06/CA355B48-A18F-4391-B2CA-B5A70D107F7B.jpeg",
+        "name": "Stine",
+        "desc": "Jeg heter Stine og er en snill, forsiktig og rolig jente med semi-lang pels og bustehale. I starten var menneskene jeg bor med ganske skumle, men nå er jeg mest nysgjerrig på alt som foregår i hjemmet. Jeg følger nøye med på det som skjer, og så snart det virker trygt kommer jeg gjerne ut og titter på nye mennesker som kommer innom. Hvis de har godteri til meg blir jeg veldig glad. Aller mest nysgjerrig er jeg på det som foregår utenfor vinduet. Jeg har derfor veldig lyst på et hjem der jeg kan utforske mer av hva som finnes ute.",
+        "outOrIn": "Utekatt",
+        "color": "Hvit og grå",
+        "age": 1,
+        "gender": "Hunn"
+    },{
+        "id": 1334526,
+        "img": "https://www.fod.no/app/uploads/2021/03/270482D3-ADDC-4FD4-91F9-7F9600D67C07.jpeg",
+        "name": "Mjau",
+        "desc": "Hei, jeg er Mjau og jeg er veldig glad i å leke. Jeg fikk en ball av fosterforeldrene som jeg liker å leke med og jage etter. Det er kjempe gøy med leker! Jeg liker også når fosterforeldrene kaster leker slik at jeg kan jage og kaste dem i været enda mer. Jeg er nysgjerrig på alt som foregår og jeg vil vite hva du gjør, spesielt hvis det har noe med mat å gjøre, for da følger jeg etter deg garantert. Ellers så er jeg glad i å sove, og det har ingenting å si hvor. Det kan være under skostativet, bak døren, under sofaen, jeg er overalt som en ninja.",
+        "outOrIn": "Utekatt",
+        "color": "Brunstripet",
+        "age": 2,
+        "gender": "Hann"
+    }
+    
+    
+    ]
+}
