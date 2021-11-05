@@ -11,7 +11,7 @@ struct DogData: Codable {
     let dogs: [Dog]
 }
     
-struct Dog: Identifiable, Codable{
+struct Dog: Identifiable, Codable, Hashable{
     let id: Int
     let img: String
     let name: String

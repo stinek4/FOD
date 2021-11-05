@@ -12,12 +12,12 @@ struct CatData: Codable  {
 
 }
 
-struct Cat: Identifiable, Codable{
+struct Cat: Identifiable, Codable, Hashable{
     let id: Int
     let img: String
     let name: String
     let desc: String
-    let outOrIn: String
+    let outside: String
     let color: String
     let age: Int
     let gender: String

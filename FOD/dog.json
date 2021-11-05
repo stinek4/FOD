@@ -1,5 +1,6 @@
 {
-    "dogs": [{
+    "dogs": [
+        {
             "id": 1908324,
             "img": "https://media.snl.no/media/53158/standard_compressed_Norwegian_Elkhound_1.jpg",
             "name": "Balto",
@@ -41,7 +42,7 @@
         },
         {
             "id": 1283654,
-            "img": "https://c.pxhere.com/photos/e3/cb/dog-217179.jpg!d",
+            "img": "https://cdn.pixabay.com/photo/2020/04/23/20/40/dog-5084007_1280.jpg",
             "name": "Puffen",
             "desc": "Puffen er vår store kosebamse! Han er tillitsfull, trofast og en fantastisk kjærlig følgesvenn. Puffen elsker å være ute og er godt pelset for all slags vær. Han har et moderat aktivitetsnivå. Koser seg med skogsturer, lek med annen hund og trives også godt med å ligge i hagen og holde oversikt. Han klarer fint å slappe av alene en arbeidsdag. Han har gode manerer inne og aldri ødelagt noe.",
             "breed": "St. Bernhard",
